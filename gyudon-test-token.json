@@ -1,6 +1,6 @@
 {
-  "name": "Gyudon-test",
-  "symbol": "GYDT",
-  "description": "This is Gyudon test token on Solana Devnet.",
+  "name": "devGyudon",
+  "symbol": "devGYD",
+  "description": "This is devGyudon token on Solana Devnet.",
   
 }
